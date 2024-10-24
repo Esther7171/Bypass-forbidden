@@ -42,3 +42,8 @@ Try to add Add this custom url
 ## Change requested method
 
 GET → POST, GET → TRACE, GET → PUT, GET → OPTIONS
+
+## Crawl Further more 
+```
+http://example.com/admin/
+```
