@@ -47,3 +47,6 @@ GET → POST, GET → TRACE, GET → PUT, GET → OPTIONS
 ```
 http://example.com/admin/
 ```
+```
+http://example.com/admin/data/u_get_access
+```
