@@ -11,7 +11,6 @@ Add this in paths of the URL and the file which is forbidden.
 - {%2e}
 - {%2f}
 - { /*, /./}
-- 
 
 
 ## Headers Manipulation
