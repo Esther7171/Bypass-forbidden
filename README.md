@@ -37,6 +37,7 @@ Try to add Add this custom url
 * Cluster-Client-IP: 127.0.0.1
 * X-ProxyUser-Ip: 127.0.0.1
 * Host: localhost: 127.0.0.1
+* X-HTTP-Method-Override: PUT
 
 
 ## Change requested method
